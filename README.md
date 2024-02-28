@@ -4,7 +4,7 @@ description: 'Current White Paper Version: 1.0.2'
 
 # # Introduction
 
-<figure><img src=".gitbook/assets/01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/paper1.png" alt=""><figcaption></figcaption></figure>
 
 N-PIK is an online betting service operated by a local entity \[U] in Uganda, which has obtained a legitimate casino license and implemented blockchain technology. The service has been invested in license acquisition and development for more than a year and is currently preparing for a launch in February 2024.
 

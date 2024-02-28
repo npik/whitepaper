@@ -25,4 +25,4 @@ The S2K L2 system checks the user's cryptocurrency holdings within the wallet da
 * Wager and Blockchain Launchpad: N-PIK aims to leverage blockchain to successfully launch Wager games and casino games, with the goal of expanding into various mobile Wager games and blockchain game launchpad services. Beyond the blockchain-based betting and casino market, our long-term objective is to use Wager and blockchain to diversify game market expansion, ultimately creating high corporate value.
 * Services based on a Lotteries and Gaming Regulatory Board Uganda (LGRB) license.
 
-<figure><img src=".gitbook/assets/07.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/paper2.png" alt=""><figcaption></figcaption></figure>
