@@ -1,5 +1,5 @@
 ---
-description: 'Current White Paper Version: 1.0.2'
+description: 'Current White Paper Version: 1.0.1'
 ---
 
 # # Introduction
