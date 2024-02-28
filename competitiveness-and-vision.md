@@ -18,23 +18,7 @@ In addition, since token earnings are not limited just to participation in casin
 
 
 
-## **3. PLYP**&#x20;
-
-This is an event token that is only issued to users who participated in the ICO and provides user-to-user trading and bank swap functions, giving users the opportunity to quickly recover their investment.
-
-During the ICO, Play PIK Tokens might be unable to be airdropped once reaching a certain point.
-
-Play PIK Token is a service prepared to provide early ICO participants with the opportunity to retrieve their ICO participation funds, while retaining PIK tokens airdropped during ICO.
-
-<figure><img src=".gitbook/assets/06 (1).png" alt=""><figcaption></figcaption></figure>
-
-N-PIK will expand its licensing to become a global betting game launcher service, allowing customization and publishing of games from various betting game developers and general game developers as betting games. Please stay tuned for the evolving N-PIK service ecosystem.
-
-N-PIK services will continue to evolve with your participation, shaping the future together.
-
-
-
-## 4. Game Lineup Competitiveness
+## 3. Game Lineup Competitiveness
 
 N-PIK service provides services in four major lineups: Pragmatic Play + Evolution + Original lineup + Game Launchpad lineup.
 
@@ -46,4 +30,21 @@ Along with this, the lineup for the game launchpad, which is currently in prepar
 
 
 
-This whitepaper(1.0.1 ver) may be subject to changes and updates depending on the progress of the service.
+## **4. PLYP**&#x20;
+
+Play PIK token is a new token service exclusive to N-PIK platform, which is issued only to users who participated in the ICO or through service airdrops, and can only be enjoyed within the N-PIK service.
+
+The Play PIK token is designed to provide opportunities for ICO participants to recover their initial investment funds by maintaining the purchased PIK tokens and receiving additional PLYP through Bank Swap and trading, or by participating in gameplay to earn additional PIK coins.
+
+\*During the ICO, there may be instances where Play PIK tokens cannot be airdropped upon reaching a certain point.
+
+<figure><img src=".gitbook/assets/06 (1).png" alt=""><figcaption></figcaption></figure>
+
+N-PIK will expand its licensing to become a global betting game launcher service, allowing customization and publishing of games from various betting game developers and general game developers as betting games. Please stay tuned for the evolving N-PIK service ecosystem.
+
+N-PIK services will continue to evolve with your participation, shaping the future together.
+
+
+
+\*This whitepaper(1.0.2 ver) may be subject to changes and updates depending on the progress of the service.
+

@@ -1,6 +1,6 @@
 # # Tokenomics
 
-<figure><img src=".gitbook/assets/04-수정2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Tokenomics (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **1. PIK**
 
@@ -30,8 +30,7 @@ Only those included through the staking service will be distributed on a daily b
 
 ### **2) Dividend timing**
 
-* 1st Pre-sale: Dividends are paid daily as soon as the service is open and profitable. 
-* 2nd Pre-sale, Public sale: Dividends will be paid daily, 1 month after the end of the sales period
+* Dividends: Upon the official launch of the service and immediate revenue generation, dividends will be distributed based on the staked quantity.
 
 
 
@@ -53,7 +52,9 @@ Only those included through the staking service will be distributed on a daily b
 
 * Issue Price: $0.080
 * Game Play Price: $0.100
-* Bankswap price: $0.105
+* Bankswap price: $0.12
+
+\*The issuance figures above are subject to change depending on ecosystem conditions.
 
 
 
@@ -72,10 +73,13 @@ Gross revenue base excludes government-related taxes and expenses related to gam
 
 35%: Company revenue
 
-* PIK distributions will be based on the number of tokens supplied based on ICO participation, not the number of tokens issued. This will provide an opportunity for early token holders to realize a positive return before all tokens are supplied.
-* In the event of a mass burn of unsold ICO tokens according to the policy, the Game Play Airdrop service may be terminated. A portion of the company's revenue may be used to purchase PIK tokens at market prices to sustain the Game Play Airdrop event.
+* PIK dividends are paid in USDT and distributed according to staking criteria.
+* Tokens unsold or undistributed depending on ecosystem conditions may be partially or entirely burned.
+* There are no company holdings or developer holdings, only distribution related to ICOs, airdrops, and marketing. There are no foundation-related distributions outside of those specified.
 *   The profit distribution rate for PIK will be consistently maintained at 30% during the first year after the service launch. Beyond the initial year, there is a possibility that this rate could be adjusted to 20% or lower. Such adjustments, if implemented, would be aimed at fine-tuning the burn percentage, facilitating game airdrops, ensuring service stability, and preserving the balance of the ecosystem.
 
     \
 
+
+\*The ecosystem of this page may be subject to change for user profit.
 

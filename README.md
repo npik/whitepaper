@@ -1,11 +1,11 @@
 ---
-description: 'Current White Paper Version: 1.0.1'
+description: 'Current White Paper Version: 1.0.2'
 ---
 
 # # Introduction
 
 <figure><img src=".gitbook/assets/01.png" alt=""><figcaption></figcaption></figure>
 
-N-PIK is an online betting service operated by "Sonic Crypto Gaming Uganda Limited" as its Ugandan entity, having obtained a legal casino license from the Ugandan government and implementing blockchain technology. This service was invested in license acquisition and development for over a year, and it is currently preparing for a service launch in January 2024.
+N-PIK is an online betting service operated by a local entity \[U] in Uganda, which has obtained a legitimate casino license and implemented blockchain technology. The service has been invested in license acquisition and development for more than a year and is currently preparing for a launch in February 2024.
 
-Cryptocurrencies based on blockchain play the role of a global currency that can be easily acquired and used anywhere in the world, providing universal accessibility unaffected by the user's location. We have chosen the online casino market as a sector where the fastest profitability can be achieved in the blockchain based global currency market. This market, even by the standards of other successful companies, is worth $5 billion in betting alone, and it is expected to expand further in 2024. We aim to lead this anticipated market with our unique transparency and stability.
+Blockchain-based cryptocurrencies serve as a universal currency, providing accessibility worldwide regardless of the user's location. We have identified the online casino sector as the most profitable field within the blockchain-based global currency market. This market, valued at $5 billion in betting alone, is projected to expand further in 2024. With our commitment to transparency and stability, we aim to lead this anticipated market.

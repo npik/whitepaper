@@ -9,11 +9,7 @@ The S2K L2 system checks the user's cryptocurrency holdings within the wallet da
 * Security: The N-PIK service securely preserves user assets through the Wallet recovery feature of the S2K L2 system. Wallet recovery is a service that decrypts the encrypted private key of the wallet provided by N-PIK, allowing users to migrate their wallet to an external (personal) wallet.
 * Transparency: The user's crypto assets sent to the casino are synchronized daily and verified in the user's personally owned N-PIK dividend wallet, making the operation much more transparent than any centralized exchange or online casino service.
 * Fairness: The N-PIK service is operated with fairness and ongoing management of games under the oversight of the Ugandan government agency 'LGRB (Lotteries and Gaming Regulatory Board Uganda).'
-* Revenue Scalability (A): PLYP will be initially airdropped only through participation in the ICO, and the PLYP airdrop service may be terminated early regardless of the continued existence of the ICO.
-*   Revenue Scalability (B): N-PIK applies the service revenue generated from Kenya Casino Galaxy's N-BIX, operated by the same affiliate, to the PIK token ecosystem, providing additional revenue scalability to PIK token holders. (Income criteria for service providers, excluding various fees, betting taxes, and taxes by country and company.)
-
-    ※ N-BIX: Kenya casino license services and blockchain services will proceed after approval. Prior to approval, services for Kenya Shilling and coin swap functionality will be carried out through API-based partnerships with cryptocurrency exchanges.\
-    \* The ecosystem partnership of PIK Token may be terminated early depending on the circumstances of the partner company. This contract will be maintained for 6 months after the N-BIX service opens.
+* Revenue Scalability: Initially, PLYP will only be distributed via participation in the ICO, and additional PIK coins can be obtained through investment fund recovery opportunities and participating in games using the held PLYP. The PLYP airdrop service may be terminated early irrespective of the ongoing ICO.
 *   Ghost Pick Point: Ghost Pick point is event point which is only airdropped through game play (centralized DB). The entire airdrop amount received by users is burned once a month.
 
     The points are airdropped on the 1st day of every month and are completely incinerated on the last day of each month.
