@@ -10,7 +10,13 @@
 * 2nd Pre-sale: 150 million = $0.05 /Sale period: After the opening of the test beta service.
 * 1st \~ 10th Public sale: 20 million tokens each sale = $0.10 /Sale period: 1 month after service launch N-PIK game participation event: 100 million airdrops = $0.10 (If due to policy reasons, the additional sale of PIK TOKEN through ICO will not be proceeded according to ecosystem environment at that time, so the airdrop will be terminated and the entire token amount will be burned, or some specific amount of tokens subject to burning will be supplied as airdrop).
 
+> <mark style="color:yellow;">In the N-PIK coin ecosystem, there are no company-held shares or developer coins related to the company whatsoever. This implies that the company has no resources to influence the market, such as arbitrarily leading the coin price or generating additional profits and increasing circulation by selling holdings during coin value rises, leading to a price drop.</mark>
+
 ### 2) Coin Ecosystem Goal
+
+> <mark style="color:yellow;">The total supply of this coin is not issued with the aim of achieving full circulation. Instead, it is intended to maintain a minimum circulation regardless of the total supply, with the remainder being burned, depending on market conditions.</mark>
+>
+> <mark style="color:yellow;">\*Our ecosystem goal: to maintain minimal circulation for service and actively reduce coin circulation through a burning policy for service.</mark>
 
 The N-PIK platform token “PIK” will be distributed exclusively through various airdrops and ICOs. The service has introduced a token ecosystem to align with the blockchain casino trend, aiming for marketing efficiency, user acquisition, and expansion. The objective is to generate market value based on the N-PIK service's performance. To this end, the N-PIK service plans not to distribute the entire ICO issuance at once but rather based on the achievement of specific marketing goals. This approach includes a focus on achieving a rapid burn rate through various systems, with the expectation that the nature of the N-PIK Token as a dividend token will lead to an increase in its value. The airdrop service will provide game continuity for users, contributing to the N-PIK service's success.
 
