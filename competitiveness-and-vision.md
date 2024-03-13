@@ -1,16 +1,16 @@
 ---
-description: 'Current White Paper Version: 1.0.1'
+description: 'Current White Paper Version: 1.0.2'
 ---
 
 # # Competitiveness and vision
 
-## 1. **Hybrid Decentralized Services**
+## <mark style="background-color:yellow;">1.</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">**Hybrid Decentralized Services**</mark>
 
 The introduction of new decentralized technologies using the s2k L2 system provides casino participants with asset stability and transparency of operations. By moving away from centralized services and ensuring transparency of funds, you will gain a competitive edge in the future online casino market.
 
 
 
-## **2. ICO**&#x20;
+## <mark style="background-color:yellow;">**2. ICO**</mark>&#x20;
 
 N-PIK, a blockchain service based on a Ugandan casino license, is proposing an ICO service to take advantage of positive business opportunities to gain competitive advantage in the market and realize profits for participating users.
 
@@ -18,7 +18,7 @@ In addition, since token earnings are not limited just to participation in casin
 
 
 
-## 3. Game Lineup Competitiveness
+## <mark style="background-color:yellow;">3. Game Lineup Competitiveness</mark>
 
 N-PIK service provides services in four major lineups: Pragmatic Play + Evolution + Original lineup + Game Launchpad lineup.
 
@@ -30,7 +30,7 @@ Along with this, the lineup for the game launchpad, which is currently in prepar
 
 
 
-## **4. PLYP**&#x20;
+## <mark style="background-color:yellow;">**4. PLYP**</mark>&#x20;
 
 Play PIK token is a new token service exclusive to N-PIK platform, which is issued only to users who participated in the ICO or through service airdrops, and can only be enjoyed within the N-PIK service.
 

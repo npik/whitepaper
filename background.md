@@ -1,6 +1,6 @@
 # # Background
 
-## 1. Service Background
+## <mark style="background-color:yellow;">1. Service Background</mark>
 
 \
 In the Blockchain financial market, we have already experienced 2 bull markets.
@@ -34,7 +34,7 @@ In addition, by taking advantage of Blockchain’s unique value as a global curr
 We will work with you to create great growth opportunities in the upcoming 3rd bull market.\
 
 
-## 2. Market Opportunity
+## <mark style="background-color:yellow;">2. Market Opportunity</mark>
 
 The Blockchain casino market is forming a market with Rollbit at the forefront starting in 2023.
 

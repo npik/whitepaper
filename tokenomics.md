@@ -2,7 +2,7 @@
 
 <figure><img src=".gitbook/assets/Tokenomics (1).png" alt=""><figcaption></figcaption></figure>
 
-## **1. PIK**
+## <mark style="background-color:yellow;">**1. PIK**</mark>
 
 ### 1) PIK Token Supply Plan
 
@@ -24,9 +24,11 @@ Additionally, unsold tokens from each sale phase will be handled according to th
 
 
 
+***
 
 
-## **2. Dividend timing**
+
+## <mark style="background-color:yellow;">**2. Dividend timing**</mark>
 
 ### **1) Dividend standard**
 
@@ -40,9 +42,11 @@ Only those included through the staking service will be distributed on a daily b
 
 
 
+***
 
 
-## **3. Airdrop additional PLYP to ICO participants**
+
+## <mark style="background-color:yellow;">**3. Airdrop additional PLYP to ICO participants**</mark>
 
 ### **1) ICO Participants = PIK Token + PLYP**
 
