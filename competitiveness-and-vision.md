@@ -1,7 +1,3 @@
----
-description: 'Current White Paper Version: 1.0.2'
----
-
 # # Competitiveness and vision
 
 ## <mark style="background-color:yellow;">1.</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">**Hybrid Decentralized Services**</mark>
@@ -46,5 +42,5 @@ N-PIK services will continue to evolve with your participation, shaping the futu
 
 
 
-\*This whitepaper(1.0.2 ver) may be subject to changes and updates depending on the progress of the service.
+\*This whitepaper(1.0.3 ver) may be subject to changes and updates depending on the progress of the service.
 

@@ -1,6 +1,20 @@
 # # Tokenomics
 
-<figure><img src=".gitbook/assets/Tokenomics (1).png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src=".gitbook/assets/Tokenomics.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+**Update**
+
+Seed Pre-sale,Eco System figures have been corrected.
+
+The reason for the action is the increase in the figures due to the fulfillment of contracts by seed investment participating organizations and the support of developers to purchase PIK at seed prices to encourage developers to work.
+
+The launch of the process resulted in an additional batch of developer purchases and planned purchases (without free distribution). additional batches were made.
+{% endhint %}
+
+
 
 ## <mark style="background-color:yellow;">**1. PIK**</mark>
 
