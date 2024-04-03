@@ -36,10 +36,6 @@ _- Reference: Korea Casino Industry Tourism Association - Research on Domestic a
 
 
 
-<figure><img src=".gitbook/assets/Group 1000005543 (1).png" alt=""><figcaption><p><mark style="color:yellow;">Size of the global and Asian casino industries</mark><br>Reference : https://www.youtube.com/watch?v=fSCgsN69K_Y</p></figcaption></figure>
-
-
-
 > * [Korean game companies aim at the blockchain-based 'social casino' market… Forecasting a market size of $8.5 billion by 2025 - The Stock](https://www.the-stock.kr/news/articleView.html?idxno=19296)
 > * [Rollbit generates impressive fee revenue by surpassing a market cap of $500 million.](https://www.coinlive.com/ko/news/rollbit-surpasses-500m-market-cap-generating-impressive-fee-revenue)
 > * [Rollbit Coin Up 10,000%? Price Predictions and Analysis | Coinovation on Binance Square](https://www.binance.com/en-AE/feed/post/949989)
