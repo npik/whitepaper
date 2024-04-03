@@ -1,67 +1,67 @@
 # # Background
 
-## <mark style="background-color:yellow;">1. Service Background</mark>
+## <mark style="color:blue;">1. Service Background</mark>
 
 \
-In the Blockchain financial market, we have already experienced 2 bull markets.
+The blockchain finance market has been formed to date with expectations for new markets and the influx of market size. In the process, we have experienced two bull markets.
 
-The first bull market has happened when the market boomed due to expectations of a new Blockchain financial era, led by Bitcoin.
+The first bull market saw a boom in the market, led by Bitcoin, due to new expectations and curiosity about the blockchain finance market, including the emergence of various altcoins such as Ethereum, Ripple, and Bitcoin Cash.
 
-The second bull market led to a market boom based on various technologies, systems, and related systems utilizing Blockchain.
+The second bull market led the market boom based on technical implementations and services proving various systems utilizing blockchain, such as mainnets, NFTs, and staking systems.
 
-It can be said that the Blockchain financial market so far has been formed by market expectations and the market size that has flowed in due to those expectations.
+Through this process, a market ecosystem was formed with the rise and fall of cryptocurrency prices due to expectations, the appearance of users who realized profits, and the influx of users who aspire to them. In this process, cryptocurrencies such as Bitcoin and Ethereum have proven their presence in the market as digital assets reflecting their value according to market supply.
 
-In other words, it can be said that an ecosystem was formed through the rise and fall of coin prices through expectations, the emergence of users who realized profits through this, and the influx of users who admired them.
+In other words, the market has not yet been formed as a universal commodity or service providing economic value through actual sales and performance.
 
-It cannot be viewed as a market formed by proving its value through actual sales and performance through market services.
+As a result, there is a story in the blockchain market that cryptocurrency exchanges are the real winners. This is because exchanges provide trading services in the market and generate actual market revenue.
 
-The Blockchain financial market will clearly serve as an important market axis in the process of the 4th industrial revolution.
+The blockchain finance market is already evolving rapidly, creating new concepts and eras such as Central Bank Digital Currencies (CBDCs) and digital assets. In this, cryptocurrencies will play an important role as one of the axes of the market in the upcoming Fourth Industrial Revolution era, despite its specificity. Therefore, it is now time for the blockchain finance market to prove its value through business performance or market sales. In the upcoming third bull market, cryptocurrencies that can prove their value through content sales and results will lead the market.
 
-To achieve this, it is time for the Blockchain financial market to prove its value through business performance, that is, sales through the market.
+Although the blockchain finance market is experiencing various challenges as it grows, one thing to note is that it has proven its value as a global currency. The upcoming third bull market and the Fourth Industrial Revolution era are crucial moments to seize the market by utilizing the advantages and values of blockchain.
 
-There is a belief that the real winner in the Blockchain market is an exchange.
+As one of the service industries that will shape that market, we have chosen the blockchain casino business. The blockchain casino business can immediately generate actual service revenue like cryptocurrency exchanges and is a blue ocean business utilizing global currency that will show its growth trajectory over the next few years, along with the third bull market.
 
-This is because exchanges provide trading services in the market and generate substantial market sales.
+The future of the cryptocurrency market lies not only in speculative and speculative markets but also in the realization of actual sales using one of the advantages of the cryptocurrency market: the value of global currency and financial value.
 
-In this way, the coin that will fundamentally lead in the 3rd bull market will be the coin that can prove its value through sales of content.
-
-We chose the Blockchain casino business as the service that will shape the market.
-
-Like an exchange, actual service sales can be formed immediately, and through this, the actual value of the coin can be proven and grown for dividends and burning services.
-
-In addition, by taking advantage of Blockchain’s unique value as a global currency, we can lead the newly formed global casino market using Blockchain with scalability that can be accessed by anyone around the world.
-
-We will work with you to create great growth opportunities in the upcoming 3rd bull market.\
+The headquarters will start with the blockchain casino business and expand to various blockchain-related businesses based on revenue from the blockchain market.\
 
 
-## <mark style="background-color:yellow;">2. Market Opportunity</mark>
+## <mark style="color:blue;">2. Market Opportunity</mark>
 
-The Blockchain casino market is forming a market with Rollbit at the forefront starting in 2023.
+By 2023, the global casino market is expected to grow to USD 263.3 billion (approximately 316 trillion won), recording an average annual growth rate of 4.86% from 2022 to 2027.&#x20;
 
-Rollbit Coin (RLB) faced 13,000% growth in the first six months of 2023, and the example of Rollbit online casino's annual revenue reached around $355 million as of 2023 sets a good precedent.
+Despite the COVID-19 era, the global online casino market has been relatively less affected compared to offline casinos. Specifically, it is expected to reach USD 61.55 billion in 2022, USD 69.57 billion in 2023 (approximately 98 trillion won), and USD 105.77 billion (approximately 148 trillion won) by 2032.
 
-As various latecomers such as Ethereum, Solana, and BNB have proven their achievements against the backdrop of Bitcoin’s growth, 2024 will be a year in which the Blockchain casino market can enjoy opportunities for challenge and growth.
+_- Reference: Korea Casino Industry Tourism Association - Research on Domestic and International Casino Regulatory Systems and Comparative Studies (October 2023 Research Data)_
 
-These market factors will serve as marketing elements and proving opportunities for N-PIK services.
 
-Rollbit Coin (RLB)'s growth in 2023 may be difficult to face exponential growth in value even if it grows in 2024.
 
-Even if Bitcoin goes to $80,000 through the third bull market, you can only see a 2x growth rate of return.
+<figure><img src=".gitbook/assets/Group 1000005543 (1).png" alt=""><figcaption><p><mark style="color:yellow;">Size of the global and Asian casino industries</mark><br>Reference : https://www.youtube.com/watch?v=fSCgsN69K_Y</p></figcaption></figure>
 
-In terms of returns, new altcoins with the backdrop of the third bull market may generate higher returns.
 
-However, choosing a new altcoin also carries risks.
 
-This brings with it the problem of whether it is possible to prove the actual value of a new coin through its market business.
+> * [Korean game companies aim at the blockchain-based 'social casino' market… Forecasting a market size of $8.5 billion by 2025 - The Stock](https://www.the-stock.kr/news/articleView.html?idxno=19296)
+> * [Rollbit generates impressive fee revenue by surpassing a market cap of $500 million.](https://www.coinlive.com/ko/news/rollbit-surpasses-500m-market-cap-generating-impressive-fee-revenue)
+> * [Rollbit Coin Up 10,000%? Price Predictions and Analysis | Coinovation on Binance Square](https://www.binance.com/en-AE/feed/post/949989)
+> * [TG.Casino raises $2.67 million by adopting whales' Telegram game pie, emerging as a project that surpasses Rollbit.](https://kr.cryptonews.com/news/move-over-rollbit-rlb-tg-casino-tgc-raises-2-5m-as-whales-rotate-into-new-telegram-gamefi-sensation.htm)
+> * [Rollbit sets a new record for highest daily revenue… 'Scorpion Casino' closely follows suit.](https://kr.cryptonews.com/news/rollbit-hits-new-revenue-record-but-competition-emerges-from-scorpion-casino.htm)\
+>
+>
+> < Reference Articles Related to Online Casinos >
 
-One of the easiest ways to solve this problem would be dividends and burn.
 
-In other words, if this is quickly proven through dividends and burning through actual business performance, even if the first dividend and burning costs are small, the value of the coin will be formed and traded assuming the value of the upward trend period (sales increase period) of business sales.
 
-The opportunity to acquire a coin like this at the lowest price will make our challenge meaningful.
+According to various research reports recently published, the global casino industry and market continue to grow in size every year, and the online casino market, in line with the era's changes, is also growing.
 
-The service that best demonstrates this can be seen as Rollbit in the Blockchain casino market.
+In particular, the blockchain casino market, which goes beyond simple online platforms, holds greater appeal as it enables global services rather than being limited to specific regions. Given the potential for global marketing and service provision, not only in markets such as the United States and Europe where the casino industry is already developed but also in the steadily growing Asian market, the market size is expected to expand further.
 
-N-PIK, which started with the success of the market as a background, will provide the value of new profit realization to new users as well as existing users who have experienced this market.
 
-\
+
+The blockchain casino business has been forming its market since 2023, led by Rollbit.
+
+Rollbit Coin ($RLB) saw a 1,300% growth in value over the first half of 2023, with the difference between the lowest and highest prices reaching an impressive 11,565.16% as of 2023. Additionally, Rollbit's annual revenue in the same year reached approximately $355 million (around 497 billion Korean Won), setting a good precedent.
+
+This market, intertwined with the third bull market, is expected to show even greater growth in the coming years.
+
+Due to the nature of online platforms, it is expected to have greater scalability than the offline casino market, which mainly targets locals and tourists, and can continue to maintain stable revenue as a big corporation providing global services. Just as various latecomers such as Ethereum, Solana, and Binance (BNB) have proven their success against the backdrop of Bitcoin's growth, the blockchain casino market is poised to seize opportunities for challenges and growth in 2024.
+

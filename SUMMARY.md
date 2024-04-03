@@ -4,6 +4,7 @@
 * [# Background](background.md)
 * [# Why PIK token?](why-pik-token.md)
 * [# Core Concepts](core-concepts.md)
+* [# Ex Staking](ex-staking.md)
 * [# Tokenomics](tokenomics.md)
 * [# Road map (2023\~2024)](road-map-2023-2024.md)
 * [# Competitiveness and vision](competitiveness-and-vision.md)

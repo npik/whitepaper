@@ -2,43 +2,35 @@
 
 <figure><img src=".gitbook/assets/02.png" alt=""><figcaption></figcaption></figure>
 
-### **"What is PIK Token?"**
+## **What is PIK Token?**
 
 {% hint style="info" %}
 We are preparing for the ecosystem that the advancement of blockchain technology will bring. We anticipate that the upcoming tokenization, i.e., the blockchain ecosystem based on global currency units, will play a crucial role in expanding business opportunities. We are confident that by adopting a service based on global currency units in the legitimate business wager game market, we can expand worldwide. To realize this vision, we have obtained legal casino licenses in Kenya and Uganda. With these licenses as a foundation, we aim to lead the blockchain-based wager game market. Through the introduction of the PIK token, we aspire to create a new blockchain-based casino ecosystem.
 {% endhint %}
 
-
-
-### **"PIK Token is deployed on Ethereum network."**
-
 {% hint style="info" %}
-To increase accessibility for users Pik Token is deployed on Ethereum network. Along with blockchain technologies on N-PIK sites we also integrated hybrid decentralized services based on Ethereum through patented “s2k L2 system”. This enables users to transparently prove Ethereum deployed assets (game utility tokens, N-PIK token etc.) on a daily basis.
+To increase accessibility for users PIK Token is deployed on Ethereum network. Along with blockchain technologies on N-PIK sites we also integrated hybrid decentralized services based on Ethereum through patented “s2k L2 system”. This enables users to transparently prove Ethereum deployed assets (game utility tokens, N-PIK token etc.) on a daily basis.
 {% endhint %}
 
 
 
-### **"PIK ICO"**
+## **PIK ICO**
 
 <figure><img src=".gitbook/assets/03.png" alt=""><figcaption></figcaption></figure>
 
-
-
 {% hint style="info" %}
-The issuance of PIK Tokens is limited to 100% of the total ICO supply, ensuring that token supply is realized exclusively through ICO. Additionally, in the phased sale via ICO, should the company's revenue surpass a certain threshold (to be disclosed later) following the N-PIK service launch, PIK Tokens will no longer be available for sale. Any tokens that remain unsold will be either burned or distributed through airdrops exclusively.)
+After the initial ICO distribution, PIK tokens will undergo a total burn of 450,000,000 out of the total issuance of 600,000,000 at the launch of the N-PIK service, with an estimated actual circulation of only 150,000,000 tokens sequentially thereafter. Following the closure of the initial ICO sale, token supply for regular users will be ensured solely through airdrops.
 
-The reason for burning the entire unsold portion when the company revenue exceeds a certain threshold is to reduce the period and costs of recovering 5% of the circulated coins during the stable phase of the service (conducted with revenue for marketing). This is done to maximize the profit impact for early ICO participants.
+To maximize efficiency for N-PIK ICO participants and facilitate rapid investment returns and profit realization, we offer the PLYP airdrop service. Funds raised will be allocated towards the launch, marketing, development, acquisition of related companies, and update expenses for the N-PIK service.
 
-The future disclosed threshold will be based on revenue generation and profitability, setting a point where the service can safely grow. Business strategies to expedite this point will be developed. All licenses acquisition and service content development have already been completed, and the substantial realization of PIK ICO and PIK Token's profits will be accelerated by the significant marketing impact of our blockchain-based service.
+\*During the initial service period, locked quantities may be supplied separately to users outside of the ICO due to investment or partnership issues.
 
-To maximize effectiveness and expedite the quick return of investment and profit realization for N-PIK ICO participants, we plan to airdrop PLYP.
-
-The funds raised will be used to launch N-PIK services and cover marketing, development, and update costs.
+\*The PLYP ICO airdrop service may end prematurely.
 {% endhint %}
 
 
 
-### **"What is Play PIK Token (PLYP)"**
+## **What is Play PIK Token(PLYP)?**
 
 {% hint style="info" %}
 This is an event token that will be airdropped to those who participated in the N-PIK ICO.

@@ -1,7 +1,5 @@
 # # Why PIK token?
 
-
-
 The token protocol of existing online casinos is centralized, making it difficult to transparently prove users' asset ownership. Additionally, when normal service provision becomes challenging due to various risks, the centralized approach makes it difficult to properly recover users' assets. To address these issues, we have implemented a hybrid decentralized approach called the S2K L2 (Split Security Key Layer2) system.
 
 
@@ -18,8 +16,8 @@ The S2K L2 system checks the user's cryptocurrency holdings within the wallet da
   The user's crypto assets sent to the casino are synchronized daily and verified in the user's personally owned N-PIK dividend wallet, making the operation much more transparent than any centralized exchange or online casino service.
 * **Fairness**\
   The N-PIK service is operated with fairness and ongoing management of games under the oversight of the Ugandan government agency 'LGRB (Lotteries and Gaming Regulatory Board Uganda).'
-* **Revenue Scalability**\
-  Initially, PLYP will only be distributed via participation in the ICO, and additional PIK coins can be obtained through investment fund recovery opportunities and participating in games using the held PLYP. The PLYP airdrop service may be terminated early irrespective of the ongoing ICO.
+* **PLYP Revenue Scalability**\
+  Initially, PLYP will be distributed only through ICO participation, allowing participants to recover their investment funds using PLYP and earn additional PIK Tokens through game participation. PLYP will be distributed through events such as N-PIK service events after the initial ICO operation. \*The PLYP Airdrop service may be terminated early regardless of ongoing ICOs.
 *   **Ghost Pick Point**\
     Ghost Pick point is event point which is only airdropped through game play (centralized DB). The entire airdrop amount received by users is burned once a month.
 
@@ -32,8 +30,10 @@ The S2K L2 system checks the user's cryptocurrency holdings within the wallet da
     The buying force will be the force that secures the necessary quantity during first-come-first-served events or draws, and can experience an additional Token ecosystem by providing a portion of net sales to the Ghost Pick event.
 
     Ghost Pick points will provide game continuity to game-playing users, contributing to the increase in revenue for the N-PIK service.
-* **Token issuance and burning**\
-  PIK tokens are distributed solely through the ICO. Additionally, if the company's revenue exceeds a specific threshold (to be disclosed later) during the staged sale through the ICO, all remaining unsold tokens will be burned and the sale will be stopped. Furthermore, 5% of the company's revenue will be continuously burned every day. The purpose of issuing and operating the PIK token is to allow users who participated in the ICO to realize a rapid return as the company grows.
+* **Token Circulation and Burning**\
+  After the initial ICO distribution, 450,000,000 out of a total issuance of 600,000,000 PIK tokens will be burned at the opening of the N-PIK service, and an estimated circulation quantity of 150,000,000 tokens will be sequentially distributed. \
+  The burning system provides a mechanism for burning a certain amount of tokens after distributing dividends to the staking participants through the new staking service called Ex Staking introduced by N-PIK.\
+  Our goal for the PIK token ecosystem is to realize the benefits for participating users through the new Ex Staking service and then burn the entire supply of tokens. This is aimed at allowing users participating in the PIK token ecosystem to realize profits quickly as the company grows.
 * **Wager and Blockchain Launchpad**\
   N-PIK aims to leverage blockchain to successfully launch Wager games and casino games, with the goal of expanding into various mobile Wager games and blockchain game launchpad services. Beyond the blockchain-based betting and casino market, our long-term objective is to use Wager and blockchain to diversify game market expansion, ultimately creating high corporate value.
 * Services based on a Lotteries and Gaming Regulatory Board Uganda (LGRB) license.

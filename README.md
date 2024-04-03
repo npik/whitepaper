@@ -1,10 +1,8 @@
 ---
-description: 'Current White Paper Version: 1.0.3'
+description: 'Current White Paper Version: 2.0.0'
 ---
 
 # # Introduction
-
-<mark style="color:green;background-color:yellow;">**On April 3, the whitepaper will be updated to version 2.0.0.**</mark>
 
 <figure><img src=".gitbook/assets/paper1.png" alt=""><figcaption></figcaption></figure>
 
