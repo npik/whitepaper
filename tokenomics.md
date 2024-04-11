@@ -93,7 +93,7 @@ The above figures are subject to change depending on ecosystem conditions.
 
 ### **3)** Dividend Criteria for Company Revenue&#x20;
 
-<figure><img src=".gitbook/assets/백서1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/백서1 (2).png" alt=""><figcaption></figcaption></figure>
 
 #### - Royal Partner
 
