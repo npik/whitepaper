@@ -4,8 +4,19 @@
 
 <figure><img src=".gitbook/assets/0416_tokenomics.png" alt=""><figcaption></figcaption></figure>
 
-* The page is updated on a weekly basis.
-* Daily updates can be found in the N-PIK EX Staking menu at [https://n-pik.com/ex-staking](https://n-pik.com/ex-staking.)
+> * Initial Issue Quantity - 600,000,000
+> * Phase One Ecosystem Burn Plan - 450,000,000\
+>
+> * Total circulating supply of PIK Tokens - 150,000,000
+>   * Airdrop reserves for marketing and investment acquisition - 90,096,776
+>   * Airdrop lock quantity+Swap lock quantity - 29,242,626(7,433,974+21,808,652)
+>   * EX Staking ticket Issuance quantity - 21,000,000
+>   * Total actual circulation amount - 9,350,849
+>   * Actual distribution amount of airdrops - 309,749
+
+\
+\* The page is updated on a weekly basis.\
+\* Daily updates can be found in the N-PIK EX Staking menu at [https://n-pik.com/ex-staking](https://n-pik.com/ex-staking.)
 
 {% hint style="info" %}
 **Update**
