@@ -12,7 +12,7 @@ Through "Ex Staking" we aim to achieve the actual profit realization goal of use
 
 Our PIK token issued under this structure will provide users participating in the ecosystem with continuous opportunities for profit realization.
 
-<figure><img src=".gitbook/assets/1712023600854541.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/to PIK Token.jpg" alt=""><figcaption></figcaption></figure>
 
 
 
