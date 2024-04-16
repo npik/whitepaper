@@ -2,7 +2,10 @@
 
 
 
-<figure><img src=".gitbook/assets/tokenomic001.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/0416_tokenomics.png" alt=""><figcaption></figcaption></figure>
+
+* The page is updated on a weekly basis.
+* Daily updates can be found in the N-PIK EX Staking menu at [https://n-pik.com/ex-staking](https://n-pik.com/ex-staking.)
 
 {% hint style="info" %}
 **Update**
