@@ -2,7 +2,7 @@
 
 
 
-<figure><img src=".gitbook/assets/240418_Tokenomics.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/240418_Tokenomics (1).png" alt=""><figcaption></figcaption></figure>
 
 > * Initial Issue Quantity - 600,000,000
 > * Phase One Ecosystem Burn Plan - 450,000,000
@@ -10,7 +10,7 @@
 > * [Total circulating supply of PIK Tokens](#user-content-fn-1)[^1] - 150,000,000
 >   * Airdrop reserves for marketing and investment acquisition - 111,406,525
 >   * [Airdrop lock quantity+Swap lock quantity](#user-content-fn-2)[^2] - 29,242,626(7,433,974+21,808,652)
->   * [Total actual circulation amount](#user-content-fn-3)[^3] - 9,350,849
+>   * [Total actual circulation amount](#user-content-fn-3)[^3] - 9,350,849(9,041,100+309,749)
 
 \
 \* The page is updated on a weekly basis.\
