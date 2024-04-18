@@ -2,17 +2,15 @@
 
 
 
-<figure><img src=".gitbook/assets/0416_tokenomics.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/240418_Tokenomics.png" alt=""><figcaption></figcaption></figure>
 
 > * Initial Issue Quantity - 600,000,000
 > * Phase One Ecosystem Burn Plan - 450,000,000
 
 > * [Total circulating supply of PIK Tokens](#user-content-fn-1)[^1] - 150,000,000
->   * Airdrop reserves for marketing and investment acquisition - 90,096,776
+>   * Airdrop reserves for marketing and investment acquisition - 111,406,525
 >   * [Airdrop lock quantity+Swap lock quantity](#user-content-fn-2)[^2] - 29,242,626(7,433,974+21,808,652)
->   * [EX Staking ticket Issuance quantity](#user-content-fn-3)[^3] - 21,000,000
->   * [Total actual circulation amount](#user-content-fn-4)[^4] - 9,350,849
->   * [Actual distribution amount of airdrops](#user-content-fn-5)[^5] - 309,749
+>   * [Total actual circulation amount](#user-content-fn-3)[^3] - 9,350,849
 
 \
 \* The page is updated on a weekly basis.\
@@ -141,8 +139,4 @@ The stage where local casino taxes are charged.
 
 [^2]: Quantities locked by airdrop and quantities locked under various conditions after purchase via PIK Swap.
 
-[^3]: This is the total ticket issuance quantity for each type of EX staking.
-
-[^4]: Out of the total quantity of 30,849,752 units sold through PIK Swap, 21,808,652 units are excluded as the locked quantity through Swap. After that, the quantity added by "Launch Event Unlocked Quantity" is the actual distribution.
-
-[^5]: The amount of coins issued through various airdrop events that have been unlocked and are in circulation.
+[^3]: Out of the total quantity of 30,849,752 units sold through PIK Swap, 21,808,652 units are excluded as the locked quantity through Swap. After that, the quantity added by "Launch Event Unlocked Quantity" is the actual distribution.
