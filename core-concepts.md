@@ -45,7 +45,7 @@ Example) If you play the game with USDT, you will spend 10 USDT; if you play the
 
 \-   Bankswap via N-PIK.\
 The swap function between PLYP and USDT will use 10\~30%(Event) of N-PIK revenue to recover at a rate of $0.12 per 1 PLYP.\
-Example) You can buy PLYP at the initial issue price of $0.8, enter the game at a value of $0.1, and exit at $0.12 via Bankswap. If you buy PLYP at $0.8 and then immediately bank swap, you will have a 31.25% return without playing the game.\
+Example) You can buy PLYP at the initial issue price of $0.08, enter the game at a value of $0.1, and exit at $0.12 via Bankswap. If you buy PLYP at $0.08 and then immediately bank swap, you will have a 31.25% return without playing the game.\
 With 30% of N-PIK's daily profit going to Bankswap, users looking for a quick exit strategy can take advantage of this feature.\
 Services like these allow ICO participants to get their money back quickly.\
 \* Bankswap will continue until all PLYP issued from the initial ICO participation have been redeemed.
